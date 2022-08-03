@@ -27,7 +27,10 @@ namespace Homework
             Console.Write("Сколько киллограмов вы весите? ");
             double weight = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Итак, Вы - "+ surname+" "+name+", вам "+age+" лет, ваш рост "+height+" сантиметров, а вес - "+weight+" килограмм");
+            Console.WriteLine("а) Итак, Вы - "+ surname+" "+name+", вам "+age+" лет, ваш рост "+height+" сантиметров, а вес - "+weight+" килограмм");
+            Console.WriteLine("б) Итак, Вы - {0} {1}, вам {2} лет, ваш рост {3} сантиметров, а вес - {4} килограмм", surname, name, age, height, weight);
+            Console.WriteLine($"в) Итак, Вы - {surname} {name}, вам {age} лет, ваш рост {height} сантиметров, а вес - {weight} килограмм");
+
             Console.ReadLine();
         }
     }

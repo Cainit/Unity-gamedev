@@ -4,3 +4,9 @@ M:\Dev\GeekBrainsRepository\Lesson1\Homework\bin\Debug\Homework.pdb
 M:\Dev\GeekBrainsRepository\Lesson1\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
 M:\Dev\GeekBrainsRepository\Lesson1\Homework\obj\Debug\Homework.exe
 M:\Dev\GeekBrainsRepository\Lesson1\Homework\obj\Debug\Homework.pdb
+M:\Dev\GeekBrainsRepository\Unity-gamedev\Homework\bin\Debug\Homework.exe.config
+M:\Dev\GeekBrainsRepository\Unity-gamedev\Homework\obj\Debug\Homework.exe
+M:\Dev\GeekBrainsRepository\Unity-gamedev\Homework\obj\Debug\Homework.pdb
+M:\Dev\GeekBrainsRepository\Unity-gamedev\Homework\bin\Debug\Homework.exe
+M:\Dev\GeekBrainsRepository\Unity-gamedev\Homework\bin\Debug\Homework.pdb
+M:\Dev\GeekBrainsRepository\Unity-gamedev\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
