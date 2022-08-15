@@ -1,0 +1,6 @@
+﻿login1
+parol1
+login2
+parol2
+root
+GeekBrains
